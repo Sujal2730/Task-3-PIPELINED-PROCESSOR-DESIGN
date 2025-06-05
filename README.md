@@ -70,4 +70,4 @@ The task successfully demonstrated the design and simulation of a basic 4-stage 
 
 This project provided practical experience in digital design, hardware description languages, and the concepts of pipelining in processor architectures. Future enhancements could include implementing hazard detection, branch prediction, and support for additional instructions, making the design closer to a practical CPU.
 
-#OUTPUT
+# OUTPUT
